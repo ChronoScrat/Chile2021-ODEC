@@ -2,7 +2,7 @@
 
 Olá,
 
-Bem vinde! Esse repositório contém o código e os arquivos utilizados para gerar a média ajustada de intenção de votos dos candidatos à eleição presidencial do Chile de 2021 presente no ODEC-USP. O artigo original pode ser encontrado [aqui](https://example.com).
+Bem vinde! Esse repositório contém o código e os arquivos utilizados para gerar a média ajustada de intenção de votos dos candidatos à eleição presidencial do Chile de 2021 presente no ODEC-USP. O artigo original pode ser encontrado [aqui](http://odec.iri.usp.br/interativos/conheca-os-candidatos-da-eleicao-presidencial-chilena/).
 
 Esse modelo de média ajustada nada mais é do que uma super simplificação do modelo de intenção de voto usado pelo [FiveThirtyEight](https://fivethirtyeight.com/) para as eleições dos Estados Unidos. O procedimento e as suposições utilizadas estão detalhadas mais abaixo.
 
