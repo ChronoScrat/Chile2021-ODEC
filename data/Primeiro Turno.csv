@@ -1,3 +1,4 @@
+sep=;
 ID;Instituto;Turno;DataPub;Amostra;Candidatura;Partido;Percentual;MgErro;Link
 1;CADEM;1;2021-08-28;704;Artes;UPa;1.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
 1;CADEM;1;2021-08-28;704;Boric;AD;20.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
@@ -87,14 +88,14 @@ ID;Instituto;Turno;DataPub;Amostra;Candidatura;Partido;Percentual;MgErro;Link
 11;Activa;1;2021-08-28;1559;Sichel;ChP;11.50;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
 11;Activa;1;2021-08-28;1559;Kast;FSC;6.30;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
 11;Activa;1;2021-08-28;1559;Nulo;NA;44.10;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-12;Tœ Influyes;1;2021-09-07;1619;Artes;UPa;1.50;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;Tœ Influyes;1;2021-09-07;1619;Boric;AD;26.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;Tœ Influyes;1;2021-09-07;1619;MEO;PRO;2.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;Tœ Influyes;1;2021-09-07;1619;Provoste;NPS;11.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;Tœ Influyes;1;2021-09-07;1619;Parisi;PDG;5.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;Tœ Influyes;1;2021-09-07;1619;Sichel;ChP;17.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;Tœ Influyes;1;2021-09-07;1619;Kast;FSC;10.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;Tœ Influyes;1;2021-09-07;1619;Nulo;NA;24.00;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12;TÂœ Influyes;1;2021-09-07;1619;Artes;UPa;1.50;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12;TÂœ Influyes;1;2021-09-07;1619;Boric;AD;26.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12;TÂœ Influyes;1;2021-09-07;1619;MEO;PRO;2.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12;TÂœ Influyes;1;2021-09-07;1619;Provoste;NPS;11.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12;TÂœ Influyes;1;2021-09-07;1619;Parisi;PDG;5.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12;TÂœ Influyes;1;2021-09-07;1619;Sichel;ChP;17.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12;TÂœ Influyes;1;2021-09-07;1619;Kast;FSC;10.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12;TÂœ Influyes;1;2021-09-07;1619;Nulo;NA;24.00;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
 13;Activa;1;2021-09-14;1531;Artes;UPa;1.70;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
 13;Activa;1;2021-09-14;1531;Boric;AD;19.90;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
 13;Activa;1;2021-09-14;1531;MEO;PRO;0.00;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
@@ -111,14 +112,14 @@ ID;Instituto;Turno;DataPub;Amostra;Candidatura;Partido;Percentual;MgErro;Link
 14;Activa;1;2021-10-02;1601;Sichel;ChP;12.50;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
 14;Activa;1;2021-10-02;1601;Kast;FSC;14.00;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
 14;Activa;1;2021-10-02;1601;Nulo;NA;35.30;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-15;Tœ Influyes;1;2021-10-05;1446;Artes;UPa;3.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;Tœ Influyes;1;2021-10-05;1446;Boric;AD;25.70;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;Tœ Influyes;1;2021-10-05;1446;MEO;PRO;3.70;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;Tœ Influyes;1;2021-10-05;1446;Provoste;NPS;11.50;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;Tœ Influyes;1;2021-10-05;1446;Parisi;PDG;4.90;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;Tœ Influyes;1;2021-10-05;1446;Sichel;ChP;12.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;Tœ Influyes;1;2021-10-05;1446;Kast;FSC;16.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;Tœ Influyes;1;2021-10-05;1446;Nulo;NA;22.90;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15;TÂœ Influyes;1;2021-10-05;1446;Artes;UPa;3.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15;TÂœ Influyes;1;2021-10-05;1446;Boric;AD;25.70;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15;TÂœ Influyes;1;2021-10-05;1446;MEO;PRO;3.70;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15;TÂœ Influyes;1;2021-10-05;1446;Provoste;NPS;11.50;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15;TÂœ Influyes;1;2021-10-05;1446;Parisi;PDG;4.90;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15;TÂœ Influyes;1;2021-10-05;1446;Sichel;ChP;12.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15;TÂœ Influyes;1;2021-10-05;1446;Kast;FSC;16.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15;TÂœ Influyes;1;2021-10-05;1446;Nulo;NA;22.90;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
 16;Activa;1;2021-10-16;1632;Artes;UPa;1.60;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
 16;Activa;1;2021-10-16;1632;Boric;AD;21.30;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
 16;Activa;1;2021-10-16;1632;MEO;PRO;3.40;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
