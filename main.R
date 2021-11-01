@@ -112,7 +112,7 @@ if(!file.exists("./output/diaria1T.csv")){
 # lizado na função a seguir.
 
 TabelaTemp <- pesquisas
-maximo <- max(TabelaTemp$DataPub)
+maximo <- today()
 
 # Iniciaremos agora o ajuste diário de pesos
 
