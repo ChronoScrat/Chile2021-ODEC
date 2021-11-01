@@ -37,7 +37,7 @@ Na prática, essa associação de pesos penaliza as pesquisas muito pequenas, en
 
 Em seguida, modificamos esse peso de acordo com a proximidade da eleição. Dado que pesquisas mais próximas do período eleitoral tendem a refletir melhor a opinião do eleitor, pesquisas realizadas até 30 dias antes da eleição têm o seu peso aumentado da seguinte forma:
 
-$$Peso \times (2 - \frac{\text{Data da Eleição} - \text{Data da Pesquisa}}{30}) $$
+Peso * (2 - (Data da Eleição - Data da Pesquisa)/30)
 
 Isso significa que pesquisas realizadas 30 dias antes da eleição terão o peso multiplicado por 1, enquanto que pesquisas realizadas **no dia** da eleição (boca de urna) terão o peso dobrado.
 
@@ -47,7 +47,8 @@ Esse ajuste é feito da seguinte forma:
 
 1. Se a pesquisa foi realizada há no máximo sete dias, o peso ajustado dela será igual ao peso original.
 2. Se a pesquisa foi realizada entre 7 e 45 dias, o peso dela será ajustado de acordo com a fórmula:
-$$Peso \times (1 - \frac{\text{Data atual} - \text{Data da Pesquisa}}{45})$$
+
+Peso * (1 - (Data atual - Data da Pesquisa)/45)
 
 Assim, a pesquisa deixa de influenciar completamente o modelo no momento em que 45 dias são decorridos de sua publicação.
 
