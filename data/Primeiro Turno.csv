@@ -1,130 +1,129 @@
-sep=;
-ID;Instituto;Turno;DataPub;Amostra;Candidatura;Partido;Percentual;MgErro;Link
-1;CADEM;1;2021-08-28;704;Artes;UPa;1.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
-1;CADEM;1;2021-08-28;704;Boric;AD;20.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
-1;CADEM;1;2021-08-28;704;MEO;PRO;3.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
-1;CADEM;1;2021-08-28;704;Provoste;NPS;13.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
-1;CADEM;1;2021-08-28;704;Parisi;PDG;7.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
-1;CADEM;1;2021-08-28;704;Sichel;ChP;20.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
-1;CADEM;1;2021-08-28;704;Kast;FSC;10.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
-1;CADEM;1;2021-08-28;704;Nulo;NA;26.00;3.10;https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
-2;CADEM;1;2021-09-04;702;Artes;UPa;0.00;3.70;https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
-2;CADEM;1;2021-09-04;702;Boric;AD;23.00;3.70;https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
-2;CADEM;1;2021-09-04;702;MEO;PRO;2.00;3.70;https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
-2;CADEM;1;2021-09-04;702;Provoste;NPS;12.00;3.70;https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
-2;CADEM;1;2021-09-04;702;Parisi;PDG;7.00;3.70;https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
-2;CADEM;1;2021-09-04;702;Sichel;ChP;19.00;3.70;https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
-2;CADEM;1;2021-09-04;702;Kast;FSC;12.00;3.70;https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
-2;CADEM;1;2021-09-04;702;Nulo;NA;25.00;3.70;https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
-3;CADEM;1;2021-09-11;705;Artes;UPa;0.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
-3;CADEM;1;2021-09-11;705;Boric;AD;22.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
-3;CADEM;1;2021-09-11;705;MEO;PRO;3.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
-3;CADEM;1;2021-09-11;705;Provoste;NPS;10.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
-3;CADEM;1;2021-09-11;705;Parisi;PDG;8.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
-3;CADEM;1;2021-09-11;705;Sichel;ChP;19.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
-3;CADEM;1;2021-09-11;705;Kast;FSC;9.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
-3;CADEM;1;2021-09-11;705;Nulo;NA;29.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
-4;CADEM;1;2021-09-17;709;Artes;UPa;1.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
-4;CADEM;1;2021-09-17;709;Boric;AD;25.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
-4;CADEM;1;2021-09-17;709;MEO;PRO;5.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
-4;CADEM;1;2021-09-17;709;Provoste;NPS;9.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
-4;CADEM;1;2021-09-17;709;Parisi;PDG;6.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
-4;CADEM;1;2021-09-17;709;Sichel;ChP;17.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
-4;CADEM;1;2021-09-17;709;Kast;FSC;10.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
-4;CADEM;1;2021-09-17;709;Nulo;NA;27.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
-5;CADEM;1;2021-09-25;703;Artes;UPa;2.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
-5;CADEM;1;2021-09-25;703;Boric;AD;23.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
-5;CADEM;1;2021-09-25;703;MEO;PRO;4.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
-5;CADEM;1;2021-09-25;703;Provoste;NPS;10.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
-5;CADEM;1;2021-09-25;703;Parisi;PDG;5.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
-5;CADEM;1;2021-09-25;703;Sichel;ChP;17.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
-5;CADEM;1;2021-09-25;703;Kast;FSC;13.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
-5;CADEM;1;2021-09-25;703;Nulo;NA;26.00;3.70;https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
-6;CADEM;1;2021-10-02;705;Artes;UPa;1.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
-6;CADEM;1;2021-10-02;705;Boric;AD;22.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
-6;CADEM;1;2021-10-02;705;MEO;PRO;5.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
-6;CADEM;1;2021-10-02;705;Provoste;NPS;12.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
-6;CADEM;1;2021-10-02;705;Parisi;PDG;5.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
-6;CADEM;1;2021-10-02;705;Sichel;ChP;12.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
-6;CADEM;1;2021-10-02;705;Kast;FSC;15.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
-6;CADEM;1;2021-10-02;705;Nulo;NA;28.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
-7;CADEM;1;2021-10-09;704;Artes;UPa;1.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
-7;CADEM;1;2021-10-09;704;Boric;AD;21.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
-7;CADEM;1;2021-10-09;704;MEO;PRO;4.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
-7;CADEM;1;2021-10-09;704;Provoste;NPS;13.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
-7;CADEM;1;2021-10-09;704;Parisi;PDG;6.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
-7;CADEM;1;2021-10-09;704;Sichel;ChP;10.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
-7;CADEM;1;2021-10-09;704;Kast;FSC;18.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
-7;CADEM;1;2021-10-09;704;Nulo;NA;27.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
-8;CADEM;1;2021-10-15;706;Artes;UPa;3.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
-8;CADEM;1;2021-10-15;706;Boric;AD;20.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
-8;CADEM;1;2021-10-15;706;MEO;PRO;4.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
-8;CADEM;1;2021-10-15;706;Provoste;NPS;12.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
-8;CADEM;1;2021-10-15;706;Parisi;PDG;6.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
-8;CADEM;1;2021-10-15;706;Sichel;ChP;7.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
-8;CADEM;1;2021-10-15;706;Kast;FSC;21.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
-8;CADEM;1;2021-10-15;706;Nulo;NA;27.00;3.70;https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
-9;CADEM;1;2021-10-23;1007;Artes;UPa;1.00;3.10;https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
-9;CADEM;1;2021-10-23;1007;Boric;AD;20.00;3.10;https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
-9;CADEM;1;2021-10-23;1007;MEO;PRO;5.00;3.10;https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
-9;CADEM;1;2021-10-23;1007;Provoste;NPS;12.00;3.10;https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
-9;CADEM;1;2021-10-23;1007;Parisi;PDG;6.00;3.10;https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
-9;CADEM;1;2021-10-23;1007;Sichel;ChP;7.00;3.10;https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
-9;CADEM;1;2021-10-23;1007;Kast;FSC;23.00;3.10;https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
-9;CADEM;1;2021-10-23;1007;Nulo;NA;26.00;3.10;https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
-10;Black & White;1;2021-08-26;1146;Artes;UPa;1.00;2.90;https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
-10;Black & White;1;2021-08-26;1146;Boric;AD;22.00;2.90;https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
-10;Black & White;1;2021-08-26;1146;MEO;PRO;3.00;2.90;https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
-10;Black & White;1;2021-08-26;1146;Provoste;NPS;12.00;2.90;https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
-10;Black & White;1;2021-08-26;1146;Parisi;PDG;8.00;2.90;https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
-10;Black & White;1;2021-08-26;1146;Sichel;ChP;26.00;2.90;https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
-10;Black & White;1;2021-08-26;1146;Kast;FSC;15.00;2.90;https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
-10;Black & White;1;2021-08-26;1146;Nulo;NA;13.00;2.90;https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
-11;Activa;1;2021-08-28;1559;Artes;UPa;0.70;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-11;Activa;1;2021-08-28;1559;Boric;AD;16.40;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-11;Activa;1;2021-08-28;1559;MEO;PRO;3.60;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-11;Activa;1;2021-08-28;1559;Provoste;NPS;11.30;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-11;Activa;1;2021-08-28;1559;Parisi;PDG;6.10;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-11;Activa;1;2021-08-28;1559;Sichel;ChP;11.50;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-11;Activa;1;2021-08-28;1559;Kast;FSC;6.30;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-11;Activa;1;2021-08-28;1559;Nulo;NA;44.10;2.50;https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
-12;T Influyes;1;2021-09-07;1619;Artes;UPa;1.50;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;T Influyes;1;2021-09-07;1619;Boric;AD;26.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;T Influyes;1;2021-09-07;1619;MEO;PRO;2.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;T Influyes;1;2021-09-07;1619;Provoste;NPS;11.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;T Influyes;1;2021-09-07;1619;Parisi;PDG;5.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;T Influyes;1;2021-09-07;1619;Sichel;ChP;17.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;T Influyes;1;2021-09-07;1619;Kast;FSC;10.10;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-12;T Influyes;1;2021-09-07;1619;Nulo;NA;24.00;2.40;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
-13;Activa;1;2021-09-14;1531;Artes;UPa;1.70;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
-13;Activa;1;2021-09-14;1531;Boric;AD;19.90;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
-13;Activa;1;2021-09-14;1531;MEO;PRO;0.00;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
-13;Activa;1;2021-09-14;1531;Provoste;NPS;9.90;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
-13;Activa;1;2021-09-14;1531;Parisi;PDG;7.00;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
-13;Activa;1;2021-09-14;1531;Sichel;ChP;11.80;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
-13;Activa;1;2021-09-14;1531;Kast;FSC;8.70;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
-13;Activa;1;2021-09-14;1531;Nulo;NA;41.00;2.50;https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
-14;Activa;1;2021-10-02;1601;Artes;UPa;1.40;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-14;Activa;1;2021-10-02;1601;Boric;AD;19.80;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-14;Activa;1;2021-10-02;1601;MEO;PRO;2.70;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-14;Activa;1;2021-10-02;1601;Provoste;NPS;8.60;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-14;Activa;1;2021-10-02;1601;Parisi;PDG;5.70;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-14;Activa;1;2021-10-02;1601;Sichel;ChP;12.50;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-14;Activa;1;2021-10-02;1601;Kast;FSC;14.00;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-14;Activa;1;2021-10-02;1601;Nulo;NA;35.30;2.40;https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
-15;T Influyes;1;2021-10-05;1446;Artes;UPa;3.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;T Influyes;1;2021-10-05;1446;Boric;AD;25.70;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;T Influyes;1;2021-10-05;1446;MEO;PRO;3.70;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;T Influyes;1;2021-10-05;1446;Provoste;NPS;11.50;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;T Influyes;1;2021-10-05;1446;Parisi;PDG;4.90;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;T Influyes;1;2021-10-05;1446;Sichel;ChP;12.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;T Influyes;1;2021-10-05;1446;Kast;FSC;16.10;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-15;T Influyes;1;2021-10-05;1446;Nulo;NA;22.90;2.56;https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
-16;Activa;1;2021-10-16;1632;Artes;UPa;1.60;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
-16;Activa;1;2021-10-16;1632;Boric;AD;21.30;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
-16;Activa;1;2021-10-16;1632;MEO;PRO;3.40;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
-16;Activa;1;2021-10-16;1632;Provoste;NPS;13.10;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
-16;Activa;1;2021-10-16;1632;Parisi;PDG;5.00;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
-16;Activa;1;2021-10-16;1632;Sichel;ChP;7.50;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
-16;Activa;1;2021-10-16;1632;Kast;FSC;16.30;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
-16;Activa;1;2021-10-16;1632;Nulo;NA;31.80;2.40;https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
+ID,Instituto,Turno,DataPub,Amostra,Candidatura,Partido,Percentual,MgErro,Link
+1,CADEM,1,2021-08-28,704,Artes,UPa,1.00,3.10,https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
+1,CADEM,1,2021-08-28,704,Boric,AD,20.00,3.10,https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
+1,CADEM,1,2021-08-28,704,MEO,PRO,3.00,3.10,https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
+1,CADEM,1,2021-08-28,704,Provoste,NPS,13.00,3.10,https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
+1,CADEM,1,2021-08-28,704,Parisi,PDG,7.00,3.10,https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
+1,CADEM,1,2021-08-28,704,Sichel,ChP,20.00,3.10,https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
+1,CADEM,1,2021-08-28,704,Kast,FSC,10.00,3.10,https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
+1,CADEM,1,2021-08-28,704,Nulo,NA,26.00,3.10,https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf
+2,CADEM,1,2021-09-04,702,Artes,UPa,0.00,3.70,https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
+2,CADEM,1,2021-09-04,702,Boric,AD,23.00,3.70,https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
+2,CADEM,1,2021-09-04,702,MEO,PRO,2.00,3.70,https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
+2,CADEM,1,2021-09-04,702,Provoste,NPS,12.00,3.70,https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
+2,CADEM,1,2021-09-04,702,Parisi,PDG,7.00,3.70,https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
+2,CADEM,1,2021-09-04,702,Sichel,ChP,19.00,3.70,https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
+2,CADEM,1,2021-09-04,702,Kast,FSC,12.00,3.70,https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
+2,CADEM,1,2021-09-04,702,Nulo,NA,25.00,3.70,https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf
+3,CADEM,1,2021-09-11,705,Artes,UPa,0.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
+3,CADEM,1,2021-09-11,705,Boric,AD,22.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
+3,CADEM,1,2021-09-11,705,MEO,PRO,3.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
+3,CADEM,1,2021-09-11,705,Provoste,NPS,10.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
+3,CADEM,1,2021-09-11,705,Parisi,PDG,8.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
+3,CADEM,1,2021-09-11,705,Sichel,ChP,19.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
+3,CADEM,1,2021-09-11,705,Kast,FSC,9.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
+3,CADEM,1,2021-09-11,705,Nulo,NA,29.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf
+4,CADEM,1,2021-09-17,709,Artes,UPa,1.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
+4,CADEM,1,2021-09-17,709,Boric,AD,25.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
+4,CADEM,1,2021-09-17,709,MEO,PRO,5.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
+4,CADEM,1,2021-09-17,709,Provoste,NPS,9.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
+4,CADEM,1,2021-09-17,709,Parisi,PDG,6.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
+4,CADEM,1,2021-09-17,709,Sichel,ChP,17.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
+4,CADEM,1,2021-09-17,709,Kast,FSC,10.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
+4,CADEM,1,2021-09-17,709,Nulo,NA,27.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf
+5,CADEM,1,2021-09-25,703,Artes,UPa,2.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
+5,CADEM,1,2021-09-25,703,Boric,AD,23.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
+5,CADEM,1,2021-09-25,703,MEO,PRO,4.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
+5,CADEM,1,2021-09-25,703,Provoste,NPS,10.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
+5,CADEM,1,2021-09-25,703,Parisi,PDG,5.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
+5,CADEM,1,2021-09-25,703,Sichel,ChP,17.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
+5,CADEM,1,2021-09-25,703,Kast,FSC,13.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
+5,CADEM,1,2021-09-25,703,Nulo,NA,26.00,3.70,https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf
+6,CADEM,1,2021-10-02,705,Artes,UPa,1.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
+6,CADEM,1,2021-10-02,705,Boric,AD,22.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
+6,CADEM,1,2021-10-02,705,MEO,PRO,5.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
+6,CADEM,1,2021-10-02,705,Provoste,NPS,12.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
+6,CADEM,1,2021-10-02,705,Parisi,PDG,5.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
+6,CADEM,1,2021-10-02,705,Sichel,ChP,12.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
+6,CADEM,1,2021-10-02,705,Kast,FSC,15.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
+6,CADEM,1,2021-10-02,705,Nulo,NA,28.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf
+7,CADEM,1,2021-10-09,704,Artes,UPa,1.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
+7,CADEM,1,2021-10-09,704,Boric,AD,21.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
+7,CADEM,1,2021-10-09,704,MEO,PRO,4.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
+7,CADEM,1,2021-10-09,704,Provoste,NPS,13.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
+7,CADEM,1,2021-10-09,704,Parisi,PDG,6.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
+7,CADEM,1,2021-10-09,704,Sichel,ChP,10.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
+7,CADEM,1,2021-10-09,704,Kast,FSC,18.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
+7,CADEM,1,2021-10-09,704,Nulo,NA,27.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf
+8,CADEM,1,2021-10-15,706,Artes,UPa,3.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
+8,CADEM,1,2021-10-15,706,Boric,AD,20.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
+8,CADEM,1,2021-10-15,706,MEO,PRO,4.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
+8,CADEM,1,2021-10-15,706,Provoste,NPS,12.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
+8,CADEM,1,2021-10-15,706,Parisi,PDG,6.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
+8,CADEM,1,2021-10-15,706,Sichel,ChP,7.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
+8,CADEM,1,2021-10-15,706,Kast,FSC,21.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
+8,CADEM,1,2021-10-15,706,Nulo,NA,27.00,3.70,https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf
+9,CADEM,1,2021-10-23,1007,Artes,UPa,1.00,3.10,https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
+9,CADEM,1,2021-10-23,1007,Boric,AD,20.00,3.10,https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
+9,CADEM,1,2021-10-23,1007,MEO,PRO,5.00,3.10,https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
+9,CADEM,1,2021-10-23,1007,Provoste,NPS,12.00,3.10,https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
+9,CADEM,1,2021-10-23,1007,Parisi,PDG,6.00,3.10,https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
+9,CADEM,1,2021-10-23,1007,Sichel,ChP,7.00,3.10,https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
+9,CADEM,1,2021-10-23,1007,Kast,FSC,23.00,3.10,https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
+9,CADEM,1,2021-10-23,1007,Nulo,NA,26.00,3.10,https://pt.scribd.com/document/534897336/Encuesta-CADEM#fullscreen&from_embed
+10,Black & White,1,2021-08-26,1146,Artes,UPa,1.00,2.90,https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
+10,Black & White,1,2021-08-26,1146,Boric,AD,22.00,2.90,https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
+10,Black & White,1,2021-08-26,1146,MEO,PRO,3.00,2.90,https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
+10,Black & White,1,2021-08-26,1146,Provoste,NPS,12.00,2.90,https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
+10,Black & White,1,2021-08-26,1146,Parisi,PDG,8.00,2.90,https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
+10,Black & White,1,2021-08-26,1146,Sichel,ChP,26.00,2.90,https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
+10,Black & White,1,2021-08-26,1146,Kast,FSC,15.00,2.90,https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
+10,Black & White,1,2021-08-26,1146,Nulo,NA,13.00,2.90,https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf
+11,Activa,1,2021-08-28,1559,Artes,UPa,0.70,2.50,https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
+11,Activa,1,2021-08-28,1559,Boric,AD,16.40,2.50,https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
+11,Activa,1,2021-08-28,1559,MEO,PRO,3.60,2.50,https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
+11,Activa,1,2021-08-28,1559,Provoste,NPS,11.30,2.50,https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
+11,Activa,1,2021-08-28,1559,Parisi,PDG,6.10,2.50,https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
+11,Activa,1,2021-08-28,1559,Sichel,ChP,11.50,2.50,https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
+11,Activa,1,2021-08-28,1559,Kast,FSC,6.30,2.50,https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
+11,Activa,1,2021-08-28,1559,Nulo,NA,44.10,2.50,https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf
+12,T Influyes,1,2021-09-07,1619,Artes,UPa,1.50,2.40,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12,T Influyes,1,2021-09-07,1619,Boric,AD,26.10,2.40,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12,T Influyes,1,2021-09-07,1619,MEO,PRO,2.10,2.40,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12,T Influyes,1,2021-09-07,1619,Provoste,NPS,11.10,2.40,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12,T Influyes,1,2021-09-07,1619,Parisi,PDG,5.10,2.40,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12,T Influyes,1,2021-09-07,1619,Sichel,ChP,17.10,2.40,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12,T Influyes,1,2021-09-07,1619,Kast,FSC,10.10,2.40,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+12,T Influyes,1,2021-09-07,1619,Nulo,NA,24.00,2.40,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf
+13,Activa,1,2021-09-14,1531,Artes,UPa,1.70,2.50,https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
+13,Activa,1,2021-09-14,1531,Boric,AD,19.90,2.50,https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
+13,Activa,1,2021-09-14,1531,MEO,PRO,0.00,2.50,https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
+13,Activa,1,2021-09-14,1531,Provoste,NPS,9.90,2.50,https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
+13,Activa,1,2021-09-14,1531,Parisi,PDG,7.00,2.50,https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
+13,Activa,1,2021-09-14,1531,Sichel,ChP,11.80,2.50,https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
+13,Activa,1,2021-09-14,1531,Kast,FSC,8.70,2.50,https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
+13,Activa,1,2021-09-14,1531,Nulo,NA,41.00,2.50,https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf
+14,Activa,1,2021-10-02,1601,Artes,UPa,1.40,2.40,https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
+14,Activa,1,2021-10-02,1601,Boric,AD,19.80,2.40,https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
+14,Activa,1,2021-10-02,1601,MEO,PRO,2.70,2.40,https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
+14,Activa,1,2021-10-02,1601,Provoste,NPS,8.60,2.40,https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
+14,Activa,1,2021-10-02,1601,Parisi,PDG,5.70,2.40,https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
+14,Activa,1,2021-10-02,1601,Sichel,ChP,12.50,2.40,https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
+14,Activa,1,2021-10-02,1601,Kast,FSC,14.00,2.40,https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
+14,Activa,1,2021-10-02,1601,Nulo,NA,35.30,2.40,https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf
+15,T Influyes,1,2021-10-05,1446,Artes,UPa,3.10,2.56,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15,T Influyes,1,2021-10-05,1446,Boric,AD,25.70,2.56,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15,T Influyes,1,2021-10-05,1446,MEO,PRO,3.70,2.56,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15,T Influyes,1,2021-10-05,1446,Provoste,NPS,11.50,2.56,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15,T Influyes,1,2021-10-05,1446,Parisi,PDG,4.90,2.56,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15,T Influyes,1,2021-10-05,1446,Sichel,ChP,12.10,2.56,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15,T Influyes,1,2021-10-05,1446,Kast,FSC,16.10,2.56,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+15,T Influyes,1,2021-10-05,1446,Nulo,NA,22.90,2.56,https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf
+16,Activa,1,2021-10-16,1632,Artes,UPa,1.60,2.40,https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
+16,Activa,1,2021-10-16,1632,Boric,AD,21.30,2.40,https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
+16,Activa,1,2021-10-16,1632,MEO,PRO,3.40,2.40,https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
+16,Activa,1,2021-10-16,1632,Provoste,NPS,13.10,2.40,https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
+16,Activa,1,2021-10-16,1632,Parisi,PDG,5.00,2.40,https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
+16,Activa,1,2021-10-16,1632,Sichel,ChP,7.50,2.40,https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
+16,Activa,1,2021-10-16,1632,Kast,FSC,16.30,2.40,https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
+16,Activa,1,2021-10-16,1632,Nulo,NA,31.80,2.40,https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf
